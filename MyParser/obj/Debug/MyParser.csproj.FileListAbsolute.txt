@@ -1,0 +1,5 @@
+D:\asp\MyParser\MyParser\bin\MyParser.dll
+D:\asp\MyParser\MyParser\bin\MyParser.pdb
+D:\asp\MyParser\MyParser\obj\Debug\ResolveAssemblyReference.cache
+D:\asp\MyParser\MyParser\obj\Debug\MyParser.dll
+D:\asp\MyParser\MyParser\obj\Debug\MyParser.pdb
